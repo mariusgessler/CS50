@@ -27,3 +27,14 @@ Implement a program that computes the approximate grade level needed to comprehe
 Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
 Grade 3
 ```
+### plurality.c 
+Implement a program that runs a plurality election, per the below.
+```
+Number of voters: 4
+Vote: Alice
+Vote: Bob
+Vote: Charlie
+Vote: Alice
+Alice
+```
+
