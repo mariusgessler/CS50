@@ -27,3 +27,30 @@ Implement a program that computes the approximate grade level needed to comprehe
 Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
 Grade 3
 ```
+
+### runoff.c
+Implement a program that runs a runoff election, per the below.
+```
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Bob
+Rank 3: Charlie
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Alice
+Rank 3: Charlie
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Alice
+```
