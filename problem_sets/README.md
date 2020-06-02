@@ -54,3 +54,11 @@ Rank 3: Bob
 
 Alice
 ```
+
+### filter.c
+
+Implement a program that applies filters to BMPs, per the below.
+
+```
+$ ./filter -r image.bmp reflected.bmp
+```
