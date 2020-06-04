@@ -62,3 +62,11 @@ Implement a program that applies filters to BMPs, per the below.
 ```
 $ ./filter -r image.bmp reflected.bmp
 ```
+
+### recover.c
+
+Implement a program that recovers JPEGs from a forensic image, per the below.
+
+```
+$ ./recover card.raw
+```
