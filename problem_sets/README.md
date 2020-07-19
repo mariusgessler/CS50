@@ -108,3 +108,13 @@ What is your name?
 David
 hello, David
 ```
+
+### cash.py
+
+Implement a program that calculates the minimum number of coins required to give a user change.
+
+```
+$ python cash.py
+Change owed: 0.41
+4
+```
