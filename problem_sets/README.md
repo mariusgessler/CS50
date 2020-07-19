@@ -1,4 +1,4 @@
-### mario.c
+### mario.c / mario.py
 Implement a program that prints out a double half-pyramid (in form of `#`) per a user-specified height.
 ```
 Height: 4
