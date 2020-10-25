@@ -134,9 +134,9 @@ Write SQL queries to answer questions about a database of movies.
 
 ### Houses (import.py, roster.py)
 
-```
 Implement a program to import student data into a database, and then produce class rosters.
 
+```
 $ python import.py characters.csv
 $ python roster.py Gryffindor
 
@@ -152,4 +152,8 @@ Romilda Vane, born 1981
 Ginevra Molly Weasley, born 1981
 Ronald Bilius Weasley, born 1980
 ```
+
+### Finance
+
+Implement a website via which users can “buy” and “sell” stocks.
 
