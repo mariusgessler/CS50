@@ -132,9 +132,7 @@ Lavender
 
 Write SQL queries to answer questions about a database of movies.
 
-### Houses
-#### import.py
-#### roster.py
+### Houses (import.py, roster.py)
 
 ```
 Implement a program to import student data into a database, and then produce class rosters.
